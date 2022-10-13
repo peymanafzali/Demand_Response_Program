@@ -1,5 +1,5 @@
 # Demand_Response_Program
-Smart grid bidding strategy in presence of demand response program (DRP)
+Smart grid bidding strategy in presence of demand response program (DRP) - 
 Flexibility of smart grids has become an important issue due to the increasing penetration of uncertain energy resources 
 such as renewable power plants in the smart grids. Flexibility tools, such as demand response (DR) programs and plug-in 
 electric vehicles (PEVs), can help the smart grid to be more efficient and flexible. Although the renewable power plants 
